@@ -15,15 +15,17 @@
 
 ### Languages and Tools:
 
-<a href="https://reactjs.org/">
+<a href="https://reactjs.org/" target="_blank">
   <img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 </a>
-<a href="https://www.typescriptlang.org/">
+<a href="https://www.typescriptlang.org/" target="_blank">
   <img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
 </a>
-<a href="https://www.gatsbyjs.com/">
+<a href="https://www.gatsbyjs.com/" target="_blank">
   <img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
 </a>
+
+<br />
 
 ### More about me
 
