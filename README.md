@@ -31,7 +31,7 @@
 
 Some projects have required to make open source contributions, not impressive numbers but these are my stats
 
-[![Diego Melendez github stats](https://github-readme-stats.vercel.app/api?username=diedu89)](https://github.com/anuraghazra/github-readme-stats)
+[![Diego Melendez github stats](https://github-readme-stats.vercel.app/api?username=diedu89)](https://github.com/diedu89)
 
 On my free time sometimes I try to help people on stackoverflow
 
