@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hello 👋, I'm Diego Melendez, Software Developer from El Salvador 🇸🇻
 
-<!--
-**diedu89/diedu89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :man_technologist: I’m currently working as a Frontend Developer
+- 🌱 I’m currently learning VueJS aiming to set up my personal site with Gridsome
+- :telescope: I’m looking to collaborate on opensource projects
+- 😄 Pronouns: Him/His
+- ⚡ Fun fact: I'm vegetarian trying my best to reduce my carbon footprint :footprints: 
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Diego Melendez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Diego Melendez | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+<br />
+
+### Languages and Tools:
+
+<a href="https://reactjs.org/">
+  <img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
+</a>
+<a href="https://www.gatsbyjs.com/">
+  <img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+</a>
+
+### More about me
+
+Some projects have required to make open source contributions, not impressive numbers but these are my stats
+
+[![Diego Melendez github stats](https://github-readme-stats.vercel.app/api?username=diedu89)](https://github.com/anuraghazra/github-readme-stats)
+
+On my free time sometimes I try to help people on stackoverflow
+
+[![Diego Melendez StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1868008&layout=compact)](https://stackoverflow.com/users/1868008/diedu)
+
+When not doing so I usually :weight_lifting_man:, :guitar: or :video_game:	
+
+[linkedin]: https://www.linkedin.com/in/diego-melendez/
+[gmail]: mailto:diedu89@gmail.com
