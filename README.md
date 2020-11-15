@@ -1,7 +1,6 @@
 ### Hello 👋, I'm Diego Melendez, Software Developer from El Salvador 🇸🇻
 
 - :man_technologist: I’m currently working as a Frontend Developer
-- 🌱 I’m currently learning VueJS aiming to set up my personal site with Gridsome
 - :telescope: I’m looking to collaborate on opensource projects
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I'm vegetarian trying my best to reduce my carbon footprint :footprints: 
@@ -22,7 +21,7 @@
   <img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
 </a>
 <a href="https://www.gatsbyjs.com/" target="_blank">
-  <img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+  <img align="left" alt="GatsbyJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
 </a>
 
 <br />
