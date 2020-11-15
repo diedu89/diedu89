@@ -27,8 +27,11 @@
 <a href="https://www.graphql.org/" target="_blank">
   <img align="left" alt="Graphql" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
 </a>
+<a href="https://rubyonrails.org/" target="_blank">
+  <img align="left" alt="Ruby on rails" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rubyonrails.svg" />
+</a>
 <a href="https://www.docker.com/" target="_blank">
-  <img align="left" alt="Docker" width="22px" style="fill: #2496ED" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+  <img align="left" alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 </a>
 
 <br />
