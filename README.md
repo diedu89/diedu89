@@ -1,6 +1,7 @@
 ### Hello 👋, I'm Diego Melendez, Software Developer from El Salvador 🇸🇻
 
 - :man_technologist: I’m currently working as a Frontend Developer
+- 🌱 I’m currently honing my backend skills in RoR
 - :telescope: I’m looking to collaborate on opensource projects
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I'm vegetarian trying my best to reduce my carbon footprint :footprints: 
@@ -22,6 +23,12 @@
 </a>
 <a href="https://www.gatsbyjs.com/" target="_blank">
   <img align="left" alt="GatsbyJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+</a>
+<a href="https://www.graphql.org/" target="_blank">
+  <img align="left" alt="Graphql" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img align="left" alt="Docker" width="22px" style="fill: #2496ED" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 </a>
 
 <br />
